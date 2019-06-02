@@ -1,0 +1,32 @@
+@charset UTF-8;
+
+#mainh1{
+	color: green;
+	border-bottom: 1px solid black;
+}
+
+#mainp {
+	color: green;
+}
+
+.d-block{
+	height: 800px;
+	width: 600px;
+}
+
+.list-group-item{
+	width: 300px;
+}
+
+a : link {
+	text-decoration: none;
+
+}
+a{
+	text-decoration: none;
+}
+
+#carouselExampleIndicators {
+	
+
+}
